@@ -21,8 +21,8 @@ To use the full dataset:
 2. Replace the sample CSV with the full one.  
 3. Change the `read_csv()` line in the code to:
 
-```python
-df = pd.read_csv("zomato.csv", encoding="latin1")```
+
+df = pd.read_csv("zomato.csv", encoding="latin1")
 
 
 
